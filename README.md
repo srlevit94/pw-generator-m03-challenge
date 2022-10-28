@@ -27,6 +27,10 @@
 - Application checks if length is a valid number 8-128. returns "undefined" and asks user to try again if value is invalid
 - Based on answers to prompts, the application adds desired characters randomly into the text window.
 
+## Relevant Links:
+- Deployed Application: https://srlevit94.github.io/pw-generator-m03-challenge/
+- GitHub Repository: https://github.com/srlevit94/pw-generator-m03-challenge
+
 ### Explanation about missing commit history
 - there was an issue with the original repository I was working on
 - BCS assistant advised me to make a new repo and copy files into it
