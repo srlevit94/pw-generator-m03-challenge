@@ -32,3 +32,5 @@
 - BCS assistant advised me to make a new repo and copy files into it
 - old repo for reference: https://github.com/srlevit94/password-generator-challenge.m03
 
+![web image 1](https://github.com/srlevit94/pw-generator-m03-challenge/blob/main/password.deployed.png?raw=true)
+![web image 2](https://github.com/srlevit94/pw-generator-m03-challenge/blob/main/password.undefined.png?raw=true)
